@@ -33,6 +33,17 @@ pip install matplotlib
 pip install -U scikit-learn
 ```
 
+### Jupyter Notebooks
+
+After activating your virtual env:
+
+```bash
+pip install jupyter
+
+# start the notebook server
+jupyter notebook
+```
+
 ## Links
 
 * Install tensorflow - <https://www.tensorflow.org/install/>
